@@ -1,0 +1,306 @@
+{
+  "users": [
+    {
+      "id": "1874",
+      "email": "mohammad1997@gmail.c",
+      "userName": "22222222222",
+      "password": "mohammad1997***",
+      "confirmPassword": "mohammad1997***",
+      "phoneNumber": "0096299929992",
+      "postalCode": "11223"
+    },
+    {
+      "id": "6932",
+      "email": "mohs@gmail.com",
+      "userName": "jjjj",
+      "password": "mohammad1997***",
+      "confirmPassword": "mohammad1997***",
+      "phoneNumber": "9999999999",
+      "postalCode": "9999"
+    },
+    {
+      "id": "3954",
+      "email": "mohs@gmail.c",
+      "userName": "mmm",
+      "password": "mohammad1997***",
+      "confirmPassword": "mohammad1997***",
+      "phoneNumber": "99999999999",
+      "postalCode": "8888"
+    },
+    {
+      "id": "efee",
+      "email": "mohammad@gamilc.om",
+      "userName": "uuuu",
+      "password": "uuu@2222",
+      "confirmPassword": "uuu@2222",
+      "phoneNumber": "88888888888",
+      "postalCode": "8888"
+    },
+    {
+      "id": "02f4",
+      "email": "hhshhs@gmail.com",
+      "userName": "jjdjddj",
+      "password": "kjdjdj@22",
+      "confirmPassword": "kjdjdj@22",
+      "phoneNumber": "222222222222",
+      "postalCode": "333333"
+    },
+    {
+      "id": "0948",
+      "email": "mohammad97@gmail.com",
+      "userName": "mo99",
+      "password": "4444@@@m",
+      "confirmPassword": "4444@@@m",
+      "phoneNumber": "99999999999999",
+      "postalCode": "9999"
+    },
+    {
+      "id": "d462",
+      "email": "sdsDDFsdf@gmail.com",
+      "userName": "zxdfvx",
+      "password": "ggggdfsfsd222modo@",
+      "confirmPassword": "ggggdfsfsd222modo@",
+      "phoneNumber": "ggg",
+      "postalCode": "gg"
+    }
+  ],
+  "carts": [
+    {
+      "id": "2694",
+      "userId": "1874",
+      "userName": "22222222222",
+      "cart": []
+    },
+    {
+      "id": "59d4",
+      "userId": "6932",
+      "userName": "jjjj",
+      "cart": []
+    },
+    {
+      "id": "54b6",
+      "userId": "3954",
+      "userName": "mmm",
+      "cart": []
+    },
+    {
+      "id": "e04c",
+      "userId": "efee",
+      "userName": "uuuu",
+      "cart": []
+    },
+    {
+      "id": "db12",
+      "userId": "02f4",
+      "userName": "jjdjddj",
+      "cart": []
+    },
+    {
+      "id": "464a",
+      "userId": "0948",
+      "userName": "mo99",
+      "cart": []
+    },
+    {
+      "id": "d92e",
+      "userId": "d462",
+      "userName": "zxdfvx",
+      "cart": []
+    }
+  ],
+  "products": [
+    {
+      "id": "1",
+      "name": "Elegant Dress",
+      "image_url": "https://images.pexels.com/photos/5693889/pexels-photo-5693889.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "price": 49.99,
+      "category": "Women",
+      "quantity": 1,
+      "rating": 4.5
+    },
+    {
+      "id": "2",
+      "name": "Classic Handbag",
+      "image_url": "https://images.pexels.com/photos/3661622/pexels-photo-3661622.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "price": 79.99,
+      "category": "Women",
+      "quantity": 1,
+      "rating": 4.2
+    },
+    {
+      "id": "3",
+      "name": "Stylish High Heels",
+      "image_url": "https://images.pexels.com/photos/11347429/pexels-photo-11347429.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "price": 59.99,
+      "category": "Women",
+      "quantity": 1,
+      "rating": 4.8
+    },
+    {
+      "id": "4",
+      "name": "Chic Sunglasses",
+      "image_url": "https://images.pexels.com/photos/2748239/pexels-photo-2748239.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "price": 29.99,
+      "category": "Women",
+      "quantity": 1,
+      "rating": 4.6
+    },
+    {
+      "id": "5",
+      "name": "Cashmere Blend Scarf",
+      "image_url": "https://images.pexels.com/photos/20327126/pexels-photo-20327126/free-photo-of-a-woman-wearing-sunglasses-and-a-white-coat.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "price": 49.99,
+      "category": "Women",
+      "quantity": 1,
+      "rating": 4.3
+    },
+    {
+      "id": "6",
+      "name": "Faux Leather Moto Jacket",
+      "image_url": "https://images.pexels.com/photos/5432162/pexels-photo-5432162.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "price": 109.99,
+      "category": "Women",
+      "quantity": 1,
+      "rating": 4.7
+    },
+    {
+      "id": "7",
+      "name": "Striped Cotton T-Shirt",
+      "image_url": "https://images.pexels.com/photos/5693888/pexels-photo-5693888.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "price": 24.99,
+      "category": "Women",
+      "quantity": 1,
+      "rating": 4
+    },
+    {
+      "id": "8",
+      "name": "Pearl Charm Bracelet",
+      "image_url": "https://images.pexels.com/photos/3745429/pexels-photo-3745429.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "price": 44.99,
+      "category": "Women",
+      "quantity": 1,
+      "rating": 4.4
+    },
+    {
+      "id": "9",
+      "name": "High-Waisted Yoga Leggings",
+      "image_url": "https://images.pexels.com/photos/8436729/pexels-photo-8436729.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "price": 39.99,
+      "category": "Women",
+      "quantity": 1,
+      "rating": 4.9
+    },
+    {
+      "id": "10",
+      "name": "Crystal Drop Earrings",
+      "image_url": "https://images.pexels.com/photos/3266700/pexels-photo-3266700.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "price": 54.99,
+      "category": "Women",
+      "quantity": 1,
+      "rating": 4.6
+    },
+    {
+      "id": "11",
+      "name": "Classic Oxford Shirt",
+      "image_url": "https://images.pexels.com/photos/5121738/pexels-photo-5121738.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "price": 59.99,
+      "category": "Men",
+      "quantity": 1,
+      "rating": 4.3
+    },
+    {
+      "id": "12",
+      "name": "Leather Wallet",
+      "image_url": "https://images.pexels.com/photos/4452388/pexels-photo-4452388.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "price": 39.99,
+      "category": "Men",
+      "quantity": 1,
+      "rating": 4.5
+    },
+    {
+      "id": "13",
+      "name": "Chic Handbag",
+      "image_url": "https://images.pexels.com/photos/3808229/pexels-photo-3808229.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "price": 79.99,
+      "category": "Accessories",
+      "quantity": 1,
+      "rating": 4.2
+    },
+    {
+      "id": "14",
+      "name": "Tailored Suit",
+      "image_url": "https://images.pexels.com/photos/16825855/pexels-photo-16825855/free-photo-of-man-sitting-and-posing-in-suit.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "price": 299.99,
+      "category": "Men",
+      "quantity": 1,
+      "rating": 4.8
+    },
+    {
+      "id": "15",
+      "name": "Sports Watch",
+      "image_url": "https://images.pexels.com/photos/3568518/pexels-photo-3568518.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "price": 129.99,
+      "category": "Men",
+      "quantity": 1,
+      "rating": 4.7
+    },
+    {
+      "id": "16",
+      "name": "Statement Necklace",
+      "image_url": "https://images.pexels.com/photos/18157531/pexels-photo-18157531/free-photo-of-golden-necklace-on-a-table.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "price": 49.99,
+      "category": "Accessories",
+      "quantity": 1,
+      "rating": 4.5
+    },
+    {
+      "id": "17",
+      "name": "Men Scarf",
+      "image_url": "https://images.pexels.com/photos/20387992/pexels-photo-20387992/free-photo-of-duy-beni-ve-dinle-denizler-bogusuyor-icimde.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "price": 49.99,
+      "category": "Men",
+      "quantity": 1,
+      "rating": 4.6
+    },
+    {
+      "id": "18",
+      "name": "Stylish Sunglasses",
+      "image_url": "https://images.pexels.com/photos/8351272/pexels-photo-8351272.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "price": 29.99,
+      "category": "Accessories",
+      "quantity": 1,
+      "rating": 4.4
+    },
+    {
+      "id": "19",
+      "name": "Leather Belt",
+      "image_url": "https://images.pexels.com/photos/4428388/pexels-photo-4428388.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "price": 39.99,
+      "category": "Accessories",
+      "quantity": 1,
+      "rating": 4.6
+    },
+    {
+      "id": "20",
+      "name": "Elegant Silk Scarf",
+      "image_url": "https://images.pexels.com/photos/8219320/pexels-photo-8219320.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "price": 34.99,
+      "category": "Accessories",
+      "quantity": 1,
+      "rating": 4.6
+    }
+  ],
+  "orders": [],
+  "coupons": [
+    {
+      "id": "04",
+      "lable": "JO04",
+      "discount": 4
+    },
+    {
+      "id": "04",
+      "lable": "JO10",
+      "discount": 10
+    }
+  ]
+}

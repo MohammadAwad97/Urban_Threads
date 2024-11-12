@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+button > svg {
+    font-size: 1.3em;
+}
+
+a {
+    transition: all 0.2s;
+};
